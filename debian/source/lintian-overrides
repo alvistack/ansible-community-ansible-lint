@@ -1,0 +1,3 @@
+python-ansible-lint source: no-debian-changes
+python-ansible-lint source: source-contains-prebuilt-windows-binary
+python-ansible-lint source: source-package-encodes-python-version
