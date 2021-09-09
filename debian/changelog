@@ -1,0 +1,5 @@
+python-ansible-lint (100:5.3.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible-community/ansible-lint/releases/tag/v5.3.2
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 11 Jan 2022 09:14:48 +0800
