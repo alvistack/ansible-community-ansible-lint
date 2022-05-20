@@ -1,0 +1,5 @@
+python-ansible-lint (100:6.1.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible-community/ansible-lint/releases/tag/v6.1.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Wed, 18 May 2022 10:56:47 +0800
