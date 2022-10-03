@@ -1,0 +1,5 @@
+python-ansible-lint (100:6.8.0~beta1+2022100332598c51-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible/ansible-lint/commit/32598c51
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Mon, 03 Oct 2022 23:09:57 +0800
