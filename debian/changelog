@@ -1,0 +1,5 @@
+python-ansible-lint (100:24.2.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible/ansible-lint/releases/tag/v24.2.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 10 Apr 2024 14:55:30 +0800
